@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_site=self.webpackChunkmy_site||[]).push([[816],{252:(e,s,c)=>{c.r(s),c.d(s,{default:()=>t});c(6540);var i=c(1410),l=c(4848);function t(){return(0,l.jsx)(i.A,{children:(0,l.jsx)("main",{children:(0,l.jsx)("a",{href:"http://localhost:3000/demos/classic-demo",children:"Classic Demo"})})})}}}]);
