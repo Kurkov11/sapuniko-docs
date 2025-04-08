@@ -75,6 +75,11 @@ const config = {
             label: "Tutorial",
           },
           {
+            to: "pathname:///demos/classic-demo/",
+            position: "left",
+            label: "Demos",
+          },
+          {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
             position: "right",
