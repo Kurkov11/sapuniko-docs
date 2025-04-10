@@ -1,11 +1,12 @@
 import React from "react";
 import Layout from "@theme/Layout";
+import styles from "./index.css";
 
 export default function Hello() {
   return (
     <Layout title="Demos" description="Demos Page">
       <h1>Demos</h1>
-      <div class="grid grid-cols-1 tablet-sm:grid-cols-2 desktop-sm:grid-cols-3 gap-[23px] mx-[50px] tablet:mx-[100px] desktop:mx-[275px]">
+      <div className={styles.sapunikoDemosContainer}>
         <div class="portfolio-single-card my-[15px] z-10 post-73 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio_category-designs">
           <a href="https://sapuniko.com/demos/classic-demo" draggable="false">
             <div class="overflow-y-hidden rounded aspect-square cursor-pointer">
