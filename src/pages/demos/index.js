@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "@theme/Layout";
+import "./index.css";
 
 export default function Hello() {
   return (
