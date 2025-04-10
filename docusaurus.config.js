@@ -75,7 +75,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            to: "pathname:///demos/classic-demo/",
+            to: "pathname:///demos/",
             position: "left",
             label: "Demos",
           },
