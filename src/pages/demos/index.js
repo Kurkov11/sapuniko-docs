@@ -1,6 +1,9 @@
 import React from "react";
 import Layout from "@theme/Layout";
-import "./index.css";
+
+import React from "react";
+
+import "https://sapuniko.com/demos/classic-demo/wp-content/themes/sapuniko/src/css/output.css?ver=1.0.0";
 
 export default function Hello() {
   return (
