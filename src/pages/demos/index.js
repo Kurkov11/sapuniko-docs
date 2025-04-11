@@ -9,13 +9,13 @@ export default function Hello() {
       <div className={styles.sapunikoDemosContainer}>
         <div class={styles.portfolioSingleCard}>
           <a
-            href="https://sapuniko.com/sapuniko-docs/demos/classic-demo"
+            href="https://sapuniko.com/demos/classic-demo"
             draggable="false"
             target="_blank"
           >
             <div class={styles.portfolioSingleCardImageContainer}>
               <img
-                src="http://localhost:3000/sapuniko-docs/img/screenshot.png"
+                src="https://sapuniko.com/img/screenshot.png"
                 draggable="false"
                 alt=""
                 class={styles.portfolioSingleCardImage}
