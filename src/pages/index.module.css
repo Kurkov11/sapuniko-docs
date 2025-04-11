@@ -17,6 +17,10 @@
     padding: 2rem;
   }
 }
+.heroSubtitle {
+  max-width: 500px;
+  margin-inline: auto;
+}
 
 .buttons {
   display: flex;

@@ -10,8 +10,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Sapuniko WordPress Theme",
+  tagline:
+    "For creatives and professionals to showcase their work and knowledge",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -72,10 +73,10 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Documentation",
           },
           {
-            to: "pathname:///demos/",
+            to: "demos",
             position: "left",
             label: "Demos",
           },

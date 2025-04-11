@@ -19,9 +19,8 @@ const FeatureList = [
     Svg: require("@site/static/img/illustration2.svg").default,
     description: (
       <>
-        Sapuniko handles the hard part. Every step of the setup is covered in
-        our documentation. Kickstart your process with our One Click Demo
-        Import. Create a fully fledged website in seconds.
+        Setup in minutes with our documentation. Create a fully fledged website
+        in seconds with One Click Demo Import.
       </>
     ),
   },
