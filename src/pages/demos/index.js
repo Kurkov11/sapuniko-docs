@@ -9,7 +9,7 @@ export default function Hello() {
       <div className={styles.sapunikoDemosContainer}>
         <div class={styles.portfolioSingleCard}>
           <a
-            href="https://kurkov11.github.io/sapuniko-docs/demos/classic-demo"
+            href="https://sapuniko.com/sapuniko-docs/demos/classic-demo"
             draggable="false"
             target="_blank"
           >
