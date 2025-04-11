@@ -7,16 +7,16 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot);
-  src: url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot#iefix)
+  src: url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot);
+  src: url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot#iefix)
       format("embedded-opentype"),
-    url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2)
+    url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2)
       format("woff2"),
-    url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff)
+    url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff)
       format("woff"),
-    url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf)
+    url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf)
       format("truetype"),
-    url(https://sapuniko.com/sapuniko-docs/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg#fontawesome)
+    url(https://sapuniko.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg#fontawesome)
       format("svg");
 }
 .far {
