@@ -8,10 +8,13 @@ export default function Hello() {
       <h1>Demos</h1>
       <div className={styles.sapunikoDemosContainer}>
         <div class="portfolio-single-card my-[15px] z-10 post-73 portfolio type-portfolio status-publish has-post-thumbnail hentry portfolio_category-designs">
-          <a href="https://sapuniko.com/demos/classic-demo" draggable="false">
+          <a
+            href="https://kurkov11.github.io/sapuniko-docs/demos/classic-demo"
+            draggable="false"
+          >
             <div class="overflow-y-hidden rounded aspect-square cursor-pointer">
               <img
-                src="https://sapuniko.com/demos/classic-demo/wp-content/uploads/2025/02/maxim-hopman-Hin-rzhOdWs-unsplash-1-1-1-scaled.webp"
+                src="https://kurkov11.github.io/sapuniko-docs/demos/classic-demo/wp-content/uploads/2025/02/maxim-hopman-Hin-rzhOdWs-unsplash-1-1-1-scaled.webp"
                 draggable="false"
                 alt=""
                 class="w-full h-[calc(100%+30px)] object-cover object-top transition-opacity opacity-80 sapuniko-blog-slide-img "
