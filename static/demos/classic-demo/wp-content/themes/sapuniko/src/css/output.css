@@ -3585,9 +3585,10 @@ textarea:focus {
   max-width: -moz-fit-content;
   max-width: fit-content;
 }
-
-.wpcf7-submit {
+.sapuniko-form-submit-wrapper {
   margin-top: 60px;
+}
+.wpcf7-submit {
   transition-property: all !important;
   transition-duration: 0.5s !important;
   text-transform: uppercase;
