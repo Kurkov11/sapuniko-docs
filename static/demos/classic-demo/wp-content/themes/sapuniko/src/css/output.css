@@ -4420,3 +4420,7 @@ ul.page-numbers {
     padding-right: 60px;
   }
 }
+.sapuniko-header-logo {
+  max-width: 120px;
+  max-height: 60px;
+}
