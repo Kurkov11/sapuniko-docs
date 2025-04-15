@@ -19,8 +19,9 @@ const FeatureList = [
     Svg: require("@site/static/img/illustration2.svg").default,
     description: (
       <>
-        Setup in minutes with our documentation. Create a fully fledged website
-        in seconds with One Click Demo Import.
+        Our documentation ensures effortless setup, while One Click Demo Import
+        takes your website from a skeleton to a fully equipped website in
+        seconds.
       </>
     ),
   },
