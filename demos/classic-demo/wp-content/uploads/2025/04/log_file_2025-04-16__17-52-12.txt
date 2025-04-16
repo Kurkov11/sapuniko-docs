@@ -1,0 +1,20 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10028
+Data file = /Users/damiankurkowicz/Local Sites/thenewestsite/app/public/wp-content/themes/sapuniko/ocdi/demo-content.xml
+Widget file = not defined!
+Customizer file = /Users/damiankurkowicz/Local Sites/thenewestsite/app/public/wp-content/themes/sapuniko/ocdi/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
