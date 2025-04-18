@@ -4423,7 +4423,6 @@ ul.page-numbers {
 .sapuniko-header-logo {
   max-width: 120px;
   max-height: 27.5px;
-  box-sizing: border-box;
   height: 27.5px;
 }
 .sapuniko-header-logo img {
