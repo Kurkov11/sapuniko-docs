@@ -4424,6 +4424,7 @@ ul.page-numbers {
   max-width: 120px;
   max-height: 27.5px;
   height: 27.5px;
+  box-sizing: content-box;
 }
 .sapuniko-header-logo img {
   max-height: 100%;
