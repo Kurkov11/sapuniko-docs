@@ -711,12 +711,12 @@ body:not(.elementor-device-widescreen)
   margin-block-start: 0;
 }
 .elementor-group-control-blur .elementor-slider {
-  background: url(https://sapuniko.com/wp-content/plugins/elementor/assets/images/blur.png);
+  background: url(https://sapuniko.com/demos/classic-demo/wp-content/plugins/elementor/assets/images/blur.png);
   background-position: 50%;
   background-size: cover;
 }
 .elementor-group-control-contrast .elementor-slider {
-  background: url(https://sapuniko.com/wp-content/plugins/elementor/assets/images/contrast.png);
+  background: url(https://sapuniko.com/demos/classic-demo/wp-content/plugins/elementor/assets/images/contrast.png);
   background-size: 100% 100%;
 }
 .elementor-group-control-hue .elementor-slider {
@@ -3210,7 +3210,7 @@ body.elementor-editor-active
 }
 .e-ui-state--elements-color-picker-color-picking__on
   :not(.e-element-color-picker__swatch) {
-  cursor: url(https://sapuniko.com/wp-content/plugins/elementor/assets/images/eyedropper.svg)
+  cursor: url(https://sapuniko.com/demos/classic-demo/wp-content/plugins/elementor/assets/images/eyedropper.svg)
       0 20,
     pointer;
 }
